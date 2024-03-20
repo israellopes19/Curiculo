@@ -1,0 +1,19 @@
+h1{
+    display: flex;
+    background-color:rgb(45, 201, 201);
+    justify-content: flex-start;
+
+}
+
+h3{
+    display: flex;
+    background-color:rgb(165, 228, 228);
+    justify-content: flex-start;
+
+
+}
+
+img{
+    border-radius: 5px;
+    border:solid 1px rgb(14, 24, 24)
+}
